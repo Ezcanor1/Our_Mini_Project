@@ -1,0 +1,20 @@
+/* static/css/styles.css */
+
+/* Body Styling */
+body {
+    background-color: #f8f9fa;
+}
+
+/* Card Styling */
+.card {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+/* Progress Bar Colors */
+.progress-bar {
+    background-color: #28a745; /* Green for success */
+}
+
+.progress-bar.bg-danger {
+    background-color: #dc3545; /* Red for danger */
+}
